@@ -15,9 +15,3 @@ Este sistema permite registrar, listar, actualizar y cancelar reservas de habita
 - MySQL
 - Git
 
-## Guía de Instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone <URL-DEL-REPOSITORIO>
-   cd <CARPETA-DEL-PROYECTO>
